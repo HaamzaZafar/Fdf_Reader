@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fdf Reader</string>
+
+    <string name="Documents">Documents</string>
+    <string name="Pdf_Options">Pdf Options</string>
+    <string name="Tools">Tools</string>
+</resources>
